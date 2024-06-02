@@ -42,6 +42,7 @@
 // --- Wipe ---
 // Proxmark continously wipes all approached T55xx tags. LED D is turned on, LEDs A-C are blinking.
 // Pressing the button enters the default mode (reading or emulation).
+// to Enter Wipe mode from reading mode " LED A ON" Double pressing the button 
 //-----------------------------------------------------------------------------
 
 #include "standalone.h"
